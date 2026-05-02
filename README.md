@@ -59,5 +59,5 @@ This project analyzes the **IPL 2022 dataset** using Python to uncover insights 
 * Interactive dashboard
 * Basic match outcome prediction
 
-
+## Author
 **Senjuti Maitra**
